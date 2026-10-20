@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "canvs": {
+      "type": "http",
+      "url": "https://app.canvs.io/mcp"
+    }
+  }
+}
